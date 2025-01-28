@@ -1,0 +1,1 @@
+Version control is important because it tracks changes over times, allows for collaboration across systems, and stores the history of files to prevent losing the code.
